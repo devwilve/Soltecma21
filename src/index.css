@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.ddñdd{
+    background-color: #8e91cc;
+    background-color: #0e1244;
+    align-items: center;
+    justify-content: center;
+    transition: all 3s;
+    background-color: #d4d7ff;
+}
